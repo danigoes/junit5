@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.udemy.junit_app.models.AccountTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-30T00:27:55" hostname="CO0C02GL0C9MD6P" time="0.015">
-  <properties/>
-  <testcase name="testCreditoCuenta()" classname="org.udemy.junit_app.models.AccountTest" time="0.015"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
